@@ -224,8 +224,9 @@
                     <img src="http://dummyimage.com/140x140/4d494d/686a82.gif&text=placeholder+image" class="img-circle" alt="placeholder+image"><br>
                     <h3>Ernesto Suarez</h3>
                     <span class="col-md-12">
-                     <i class="icon-twitter-2"></i>
-                    <i class="icon-linkedin"></i> 
+                      <i class="icon-github-2"></i>
+                      <i class="icon-twitter-2"></i>
+                      <i class="icon-linkedin"></i> 
                     </span>
                     
                     <h5 class="col-md-10 col-md-offset-1">Programador de aplicaciones de implementación web e implementación para dispositivos móviles, conocedor de múltiples lenguajes de desarrollo y gestor de calidad de software. </h5>
@@ -242,9 +243,9 @@
                     <img src="assets/img/avatar_carlos.png" data-sr="top" width="150px" class="img-circle" alt="placeholder+image img-responsive"><br>
                     <h3 data-sr="top">Carlos Moran</h3>
                     <span class="col-md-12">
-                    <i class="icon-github-2"></i>
-                    <i class="icon-twitter-2"></i>
-                    <i class="icon-linkedin"></i>
+                      <i class="icon-github-2"></i>
+                      <i class="icon-twitter-2"></i>
+                      <i class="icon-linkedin"></i>
                     </span>
                     
                     
@@ -288,7 +289,7 @@
         <div id="brief_2" class="section block-danger align-c-xs-max">
           <div class="container">
             <div class="row row-table">
-            <div class="col-sm-4 m-b-60-xs-max p-r-60-md-min">
+              <div class="col-sm-4 m-b-60-xs-max p-r-60-md-min">
                 <div class="col-inner clearfix">
                   <img class="img-responsive float-l-sm-min m-x-auto-xs-max" src="assets/img/apps.png" alt="" data-sr="left">
                 </div>
@@ -338,72 +339,101 @@
         </div> <!-- #brief_2 -->
 
 
+        {{--  --}}
 
-
-
-
-        <div id="brief_3" class="section block-primary align-c-xs-max">
+        <div id="brief_2" class="section block-success align-c-xs-max">
           <div class="container">
             <div class="row row-table">
-
-              <div class="col-sm-6 m-t-60-xs-max p-l-60-md-min">
-                <div class="col-inner clearfix">
-                  <img class="img-responsive float-r-sm-min m-x-auto-xs-max" src="assets/img/sem.png" alt="" data-sr="right">
-                </div>
+             <div class="col-sm-6 m-b-60-xs-max p-r-60-md-min">
+              <div class="col-inner clearfix">
+                <img class="img-responsive float-l-sm-min m-x-auto-xs-max" src="assets/img/community.png" alt="" data-sr="left">
               </div>
-              <div class="col-sm-6">
-                <div class="col-inner">
-                  <div class="section-heading">                    
-                    <h2>Gestión de tráfico, reposicionamiento y optimización de metadatos</h2>
-                    <h4>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</h4>
-                  </div> <!-- .section-heading -->
-                  
-                </div>
+            </div>
+            
+            <div class="col-sm-6">
+              <div class="col-inner">
+                <div class="section-heading">
+
+                  <h2> Desarrollo e integración con redes sociales </h2>
+                </div> <!-- .section-heading -->
+                <div class="section-content">
+                  <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in scelerisque nisi, a convallis nibh. Etiam posuere faucibus lectus, quis volutpat urna consequat et. Aenean rutrum dui in turpis feugiat, at facilisis dui laoreet.</h4>
+                </div> <!-- .section-content -->
+              </div>
+            </div>
+            
+            
+          </div>
+        </div>
+      </div> <!-- #brief_2 -->
+
+
+
+
+
+
+      <div id="brief_3" class="section block-primary align-c-xs-max">
+        <div class="container">
+          <div class="row row-table">
+
+            <div class="col-sm-6 m-t-60-xs-max p-l-60-md-min">
+              <div class="col-inner clearfix">
+                <img class="img-responsive float-r-sm-min m-x-auto-xs-max" src="assets/img/sem.png" alt="" data-sr="right">
+              </div>
+            </div>
+            <div class="col-sm-6">
+              <div class="col-inner">
+                <div class="section-heading">                    
+                  <h2>Gestión de tráfico, reposicionamiento y optimización de metadatos</h2>
+                  <h4>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</h4>
+                </div> <!-- .section-heading -->
+                
               </div>
             </div>
           </div>
-        </div> <!-- #brief_3 -->
+        </div>
+      </div> <!-- #brief_3 -->
 
 
-        <div id="brief_3" class="section block-success align-c-xs-max">
-          <div class="container">
-            <div class="row row-table">
+      <div id="brief_3" class="section block-success align-c-xs-max">
+        <div class="container">
+          <div class="row row-table">
 
 
-              <div class="col-sm-6">
-                <div class="col-inner">
-                  <div class="section-heading">
-                    <h2>Administración de correos, suscripción a boletines y mailing</h2>
-                    
-                    <h4>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</h4>
-                  </div> <!-- .section-heading -->
+            <div class="col-sm-6">
+              <div class="col-inner">
+                <div class="section-heading">
+                  <h2>Administración de correos, suscripción a boletines y mailing</h2>
                   
-                </div>
+                  <h4>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</h4>
+                </div> <!-- .section-heading -->
+                
               </div>
+            </div>
 
-              <div class="col-sm-6 m-t-60-xs-max p-l-60-md-min">
-                <div class="col-inner clearfix">
-                  <img class="img-responsive float-r-sm-min m-x-auto-xs-max" src="assets/img/item/brief-3.png" alt="" data-sr="right">
-                </div>
+            <div class="col-sm-6 m-t-60-xs-max p-l-60-md-min">
+              <div class="col-inner clearfix">
+                <img class="img-responsive float-r-sm-min m-x-auto-xs-max" src="assets/img/item/brief-3.png" alt="" data-sr="right">
               </div>
             </div>
           </div>
-        </div> <!-- #brief_3 -->
+        </div>
+      </div> <!-- #brief_3 -->
 
-      </main> <!-- .site-main -->
-      
-    </div>
+    </main> <!-- .site-main -->
+    
   </div>
+</div>
 
-  <script src="assets/js/vendor/jquery-1.11.3.min.js"></script>
-  <script src='assets/js/vendor/bootstrap.min.js'></script>
-  <script src='assets/js/vendor/plugin.js'></script>
-  <script src='assets/js/variable.js'></script>
-  <script src='assets/js/map.js'></script>
-  <script src='assets/js/main.js'></script>
-  <script src='assets/js/demo.js'></script>
+<script src="assets/js/vendor/jquery-1.11.3.min.js"></script>
+<script src='assets/js/vendor/bootstrap.min.js'></script>
+<script src='assets/js/vendor/plugin.js'></script>
+<script src='assets/js/variable.js'></script>
+<script src='assets/js/map.js'></script>
+<script src='assets/js/main.js'></script>
+<script src='assets/js/demo.js'></script>
 
-  <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
   <!--
   <script>
       (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
